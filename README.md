@@ -1,6 +1,8 @@
 # Snake Game
 
 This is a classic Snake game implemented in C++ for Linux using the Raylib library. The game features simple graphics and intuitive controls, allowing players to navigate the snake to eat food while avoiding collisions with the walls and itself.
+![Game Screenshot 1](screenshots/screenshot1.png)
+![Game Screenshot 2](screenshots/screenshot2.png)
 
 ## Features
 
@@ -22,7 +24,7 @@ To run this game on Linux, you need to have the following installed:
 
    ```bash
    git clone https://github.com/AYGA2K/raylib-snake-game-cpp.git
-   cd snake-game
+   cd raylib-snake-game-cpp
    ```
 
 2. Install Raylib if you haven't done so already. Instructions can be found in the [Raylib documentation](https://raylib.com/).
