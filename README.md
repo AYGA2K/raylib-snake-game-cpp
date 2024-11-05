@@ -3,8 +3,8 @@
 This is a classic Snake game implemented in C++ for Linux using the Raylib library. The game features simple graphics and intuitive controls, allowing players to navigate the snake to eat food while avoiding collisions with the walls and itself.
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" alt="Game Screenshot 1" width="300" />
-  <img src="screenshots/screenshot2.png" alt="Game Screenshot 2" width="300" />
+  <img src="screenshots/screenshot1.png" alt="Game Screenshot 1" width="400" />
+  <img src="screenshots/screenshot2.png" alt="Game Screenshot 2" width="400" />
 </p>
 
 ## Features
